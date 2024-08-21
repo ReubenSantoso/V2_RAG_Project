@@ -1,0 +1,11 @@
+llama-index
+llama-index-llms-ollama
+llama-index-vector-stores-milvus
+jsonpath-ng
+pymilvus>=2.4.2
+grpcio==1.63.0
+llama-index-readers-json
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
